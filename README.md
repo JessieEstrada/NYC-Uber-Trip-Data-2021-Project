@@ -1,4 +1,4 @@
-<p align="center"># CIS 4560-01 Final Term Project</p>
+# <p align="center">CIS 4560-01 Final Term Project</p>
 
 <p align="center"><img width="667" alt="Screen-Shot-2019-12-09-at-4 08 56-PM" src="https://user-images.githubusercontent.com/114109235/236597783-6c4d10dc-819e-4979-8317-597f4941dc7c.png"></p>
 
