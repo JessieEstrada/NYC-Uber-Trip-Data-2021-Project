@@ -12,4 +12,4 @@ Kaggle Link to Data set: https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forh
 
 ## Slides
 
-Link to Slide Deck: LINK HERE
+Link to Slide Deck: https://docs.google.com/presentation/d/1Q8b-i5pJ95VP1el5WuuvbF91lVzGVpBBFJsfL6gvo1Y/edit?usp=sharing
