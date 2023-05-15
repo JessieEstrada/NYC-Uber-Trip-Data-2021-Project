@@ -16,7 +16,7 @@ Link to Slide Deck: https://docs.google.com/presentation/d/1Q8b-i5pJ95VP1el5Wuuv
 
 ## Report
 
-Link to Report:https://github.com/JessieEstrada/NYC_Uber_Trip_Data_2021_Project
+Link to Report: https://github.com/JessieEstrada/NYC_Uber_Trip_Data_2021_Project
 
 ## Tutorial
 
