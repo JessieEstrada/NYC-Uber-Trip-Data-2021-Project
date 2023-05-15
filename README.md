@@ -13,3 +13,11 @@ Kaggle Link to Data set: https://www.kaggle.com/datasets/shuhengmo/uber-nyc-forh
 ## Slides
 
 Link to Slide Deck: https://docs.google.com/presentation/d/1Q8b-i5pJ95VP1el5WuuvbF91lVzGVpBBFJsfL6gvo1Y/edit?usp=sharing
+
+## Report
+
+Link to Report:https://github.com/JessieEstrada/NYC_Uber_Trip_Data_2021_Project
+
+## Tutorial
+
+Link to Tutorial: https://docs.google.com/document/d/1EpXVJhNtfmR7AeBhwpvw7D9XGVUTtytG4Cljo7TQjow/edit?usp=sharing
