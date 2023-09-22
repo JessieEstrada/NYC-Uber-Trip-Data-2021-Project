@@ -4,6 +4,10 @@
 
 Welcome to our Final Term Project! Our team has worked with a large data set in order to perform analysis, create tables and visualizations.
 
+## Project By
+
+Amy W, Jessie E, Alan K, Brayan G, Rodolfo H
+
 ## Data Set 
 
 Name: Uber NYC for-hire vehicles trip data (2021)
